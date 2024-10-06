@@ -21,7 +21,7 @@ public class CtoFConverter
                tempF = tempC * CONVERSION + CONSTANT;
                goodNum = true;
 
-               System.out.println(tempC + "Celsius converted to Fahrenheit is " + tempF +" Fahrenheit.");
+               System.out.println(tempC + " Celsius converted to Fahrenheit is " + tempF +" Fahrenheit.");
                }
             else {
                 trash = in.nextLine();
